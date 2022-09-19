@@ -1,6 +1,6 @@
-# Aurora Token Assets
+# Avalanche Token Assets
 
-Token list for Trisolaris.
+Token list for TEADAO.
 
 Token lists are stored in `lists` repository, they are stored in the format `<chain-id>/list.json`.
 
@@ -17,12 +17,12 @@ Add your token metadata to the end of list.json with the following data:
 "symbol": Token symbol,
 "decimals": Token decimals,
 "chainId": 1313161554,
-"logoURI": "https://raw.githubusercontent.com/trisolaris-labs/tokens/master/assets/{TOKEN_ADDRESS}/logo.svg"
+"logoURI": "https://raw.githubusercontent.com/TeaDao-labs/tokens/master/assets/{TOKEN_ADDRESS}/logo.svg"
 }
 ```
 
 ## Disclaimer
 
-TriSolaris team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
+TeaDao team allows anyone to submit new assets to this repository. However, this does not mean that we are in direct partnership with all of the projects.
 
-TriSolaris team will reject projects that are deemed as scam or fraudulent after careful review. TriSolaris team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
+TeaDao team will reject projects that are deemed as scam or fraudulent after careful review. TeaDao team reserves the right to change the terms of asset submissions at any time due to changing market conditions, risk of fraud, or any other factors we deem relevant.
