@@ -34,5 +34,15 @@
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/Tea-Dao/image/main/icon/Tea/logo_250_250.png"
     },
+    {
+      "name": "sTEA",
+      "address": "0xe559092D2e80d9B1d91a641CE25bACC3cFdCF689",
+      "symbol": "sTEA",
+      "decimals": 18,
+      "chainId": 1313161554,
+      "logoURI": "https://raw.githubusercontent.com/Tea-Dao/image/main/icon/sTea/sTea.svg"
+    },
+
+
   ]
 }
