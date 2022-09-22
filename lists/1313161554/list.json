@@ -28,11 +28,11 @@
     },
     {
       "name": "TEA",
-      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
       "symbol": "TEA",
       "decimals": 18,
       "chainId": 1313161554,
       "logoURI": "https://raw.githubusercontent.com/Tea-Dao/image/main/icon/Tea/logo_250_250.png"
-    }
+    },
   ]
 }
